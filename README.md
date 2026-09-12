@@ -10,13 +10,13 @@ The STL files are included in this repository so anyone can download and print t
 
 ### Finished Lamp
 
-![Finished lamp with warm light](Images/lamp_warm.jpg)
+![Finished lamp with warm light](Images/lamp_warm.jpeg)
 
-![Finished lamp with RGB light](Images/lamp_rgb.jpg)
+![Finished lamp with RGB light](Images/lamp_rgb.jpeg)
 
 ### Printed Components
 
-![Lamp components](Images/lamp_components.jpg)
+![Lamp components](Images/lamp_components.jpeg)
 
 ## Print Settings
 
